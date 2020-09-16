@@ -2,6 +2,9 @@
 ### 🌱 I’m currently learning ...
 ###  - Java
 ###  - Kotlin
+###  - Python
+###  - C#
+###  - Java Script
 ###  - node.js
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YONGJAEEE)](https://github.com/anuraghazra/github-readme-stats)
