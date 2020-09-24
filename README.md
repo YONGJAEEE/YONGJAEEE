@@ -1,14 +1,15 @@
 ### Hi there 👋
-### 🌱 I’m currently learning ...
-#####    - Java
-#####    - Kotlin
-#####    - Python
-#####    - C#
-#####    - Java Script
-#####    - node.js
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YONGJAEEE)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YONGJAEEE)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌱 I’m currently learning ...
+####    &nbsp - Java
+####    - Kotlin
+####    - Python
+####    - C#
+####    - Java Script
+####    - node.js
 <!--
 **YONGJAEEE/YONGJAEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
