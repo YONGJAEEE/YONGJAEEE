@@ -6,10 +6,11 @@
 ### 🔭 I’m currently using ...
 ####    - Java
 ####    - Kotlin
+####    - Python
 ####    - html/css
 
+
 ### 🌱 I’m currently learning ...
-####    - Python
 ####    - C#
 ####    - Java Script
 ####    - node.js
