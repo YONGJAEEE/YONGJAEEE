@@ -1,35 +1,14 @@
-### Hi there 👋
+<div align="center">
+<br>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YONGJAEEE)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YONGJAEEE)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=FFD1A8&lines=Hi+there!+I'm+Android+Developer+Yongjae.)](https://git.io/typing-svg)
+<br>
+</div>
 
-### 🔭 I’m currently using ...
-####    - Java
-####    - Kotlin
-####    - Python
-####    - html/css
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yongjaeee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fffff&icon_color=F5D0B1&text_color=DEAB95&title_color=DEAB95" width=49.2% />
+</a>
 
-
-### 🌱 I’m currently learning ...
-####    - C#
-####    - Java Script
-####    - node.js
-
-### 📫 How to reach me: ...
-####    -  yongjae031119@naver.com
-####    -  <a href = "https://yongjaee.tistory.com/">블로그</a>
-####    -  <a href = "https://www.facebook.com/profile.php?id=100015581145201">facebook</a>
-<!--
-**YONGJAEEE/YONGJAEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=yongjaeee&theme=react-dark&bg_color=6E685E&hide_border=true&line=DEAB95&color=DEAB95" width=98%/>
+</a>
